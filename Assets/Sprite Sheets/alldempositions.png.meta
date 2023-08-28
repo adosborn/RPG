@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: ff001316c16344fe7b49d282eeede70e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7201313062341304059
+    second: IgorWalk_0
+  - first:
+      213: 142423017490474548
+    second: IgorWalk1
+  - first:
+      213: -8041689891317877051
+    second: IgorWalk_2
+  - first:
+      213: 1231511059418108771
+    second: IgorWalk_3
+  - first:
+      213: -4290939986967074921
+    second: IgorWalk_4
+  - first:
+      213: -2710072165863383482
+    second: alldempositions_5
+  - first:
+      213: 7031035574108267062
+    second: IgorJump
+  - first:
+      213: -6495050929707871763
+    second: IgorArm
+  - first:
+      213: -7199635935102789943
+    second: Sword_0
+  - first:
+      213: 2553930860763748074
+    second: FireBall_0
+  - first:
+      213: 505414027942913752
+    second: Staff_0
+  - first:
+      213: -5902809795272077159
+    second: IgorIdle_0
+  - first:
+      213: -5749086367973845654
+    second: IgorIdle_1
+  - first:
+      213: -4476984204382092788
+    second: IgorIdle_2
+  - first:
+      213: 5490953867334905377
+    second: IgorIdle_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 10
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IgorWalk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 532
+        width: 136
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50124ca8cebcf0c90800000000000000
+      internalID: -7201313062341304059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorWalk1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 533
+        width: 144
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436eb55dafcf9f100800000000000000
+      internalID: 142423017490474548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorWalk_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 531
+        width: 150
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f52a86ad266090800000000000000
+      internalID: -8041689891317877051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorWalk_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 533
+        width: 144
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d491a8c4371110800000000000000
+      internalID: 1231511059418108771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorWalk_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 532
+        width: 137
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ee44f0d48374c0800000000000000
+      internalID: -4290939986967074921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alldempositions_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 531
+        width: 136
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1a0649b3e36ad0800000000000000
+      internalID: -2710072165863383482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorJump
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 529
+        width: 161
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632abd54a91439160800000000000000
+      internalID: 7031035574108267062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorArm
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 308
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -8.5}
+        - {x: 25.5, y: -5.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 9.5, y: -0.5}
+        - {x: 6.5, y: 4.5}
+        - {x: 2.5, y: 10.5}
+        - {x: -14.5, y: 27.5}
+        - {x: -23.5, y: 27.5}
+        - {x: -30.5, y: 24.5}
+        - {x: -33.5, y: 21.5}
+        - {x: -34.5, y: 18.5}
+        - {x: -34.5, y: -1.5}
+        - {x: -30.5, y: -9.5}
+        - {x: -19.5, y: -20.5}
+        - {x: -4.5, y: -25.5}
+        - {x: -0.5, y: -26.5}
+        - {x: 5.5, y: -27.5}
+        - {x: 32.5, y: -27.5}
+        - {x: 34.5, y: -26.5}
+        - {x: 34.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0.69
+      bones: []
+      spriteID: de111b87791fcd5a0800000000000000
+      internalID: -6495050929707871763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 287
+        width: 123
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -52.5}
+        - {x: -19.5, y: -57.5}
+        - {x: -9.5, y: -63.5}
+        - {x: -6.5, y: -63.5}
+        - {x: -3.5, y: -60.5}
+        - {x: -2.5, y: -56.5}
+        - {x: -17.5, y: -46.5}
+        - {x: -5.5, y: -28.5}
+        - {x: -0.5, y: -20.5}
+        - {x: 7.5, y: -8.5}
+        - {x: 11.5, y: -3.5}
+        - {x: 16.5, y: 4.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 28.5, y: 21.5}
+        - {x: 33.5, y: 29.5}
+        - {x: 39.5, y: 38.5}
+        - {x: 45.5, y: 46.5}
+        - {x: 47.5, y: 51.5}
+        - {x: 47.5, y: 53.5}
+        - {x: 53.5, y: 64.5}
+        - {x: 53.5, y: 66.5}
+        - {x: 60.5, y: 79.5}
+        - {x: 61.5, y: 81.5}
+        - {x: 61.5, y: 89.5}
+        - {x: 58.5, y: 89.5}
+        - {x: 52.5, y: 83.5}
+        - {x: 52.5, y: 82.5}
+        - {x: 28.5, y: 57.5}
+        - {x: 18.5, y: 42.5}
+        - {x: 14.5, y: 37.5}
+        - {x: 9.5, y: 29.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -15.5, y: -7.5}
+        - {x: -31.5, y: -31.5}
+        - {x: -33.5, y: -35.5}
+        - {x: -35.5, y: -33.5}
+        - {x: -38.5, y: -31.5}
+        - {x: -39.5, y: -31.5}
+        - {x: -47.5, y: -25.5}
+        - {x: -49.5, y: -25.5}
+        - {x: -52.5, y: -28.5}
+        - {x: -53.5, y: -32.5}
+        - {x: -49.5, y: -36.5}
+        - {x: -45.5, y: -39.5}
+        - {x: -37.5, y: -44.5}
+        - {x: -42.5, y: -52.5}
+        - {x: -46.5, y: -58.5}
+        - {x: -50.5, y: -63.5}
+        - {x: -55.5, y: -71.5}
+        - {x: -61.5, y: -79.5}
+        - {x: -61.5, y: -87.5}
+        - {x: -58.5, y: -89.5}
+        - {x: -50.5, y: -89.5}
+        - {x: -44.5, y: -81.5}
+        - {x: -39.5, y: -73.5}
+        - {x: -29.5, y: -59.5}
+      physicsShape: []
+      tessellationDetail: 0.47
+      bones: []
+      spriteID: 9c69f082341c51c90800000000000000
+      internalID: -7199635935102789943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBall_0
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 326
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: -18.5}
+        - {x: 48.5, y: -11.5}
+        - {x: 49.5, y: -8.5}
+        - {x: 49.5, y: 7.5}
+        - {x: 47.5, y: 12.5}
+        - {x: 40.5, y: 20.5}
+        - {x: 35.5, y: 23.5}
+        - {x: 25.5, y: 28.5}
+        - {x: 19.5, y: 30.5}
+        - {x: -22.5, y: 30.5}
+        - {x: -27.5, y: 28.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -36.5, y: 20.5}
+        - {x: -40.5, y: 19.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -48.5, y: 15.5}
+        - {x: -47.5, y: 12.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -35.5, y: 7.5}
+        - {x: -31.5, y: 6.5}
+        - {x: -35.5, y: 5.5}
+        - {x: -44.5, y: 2.5}
+        - {x: -48.5, y: -0.5}
+        - {x: -47.5, y: -3.5}
+        - {x: -38.5, y: -6.5}
+        - {x: -38.5, y: -7.5}
+        - {x: -45.5, y: -10.5}
+        - {x: -49.5, y: -12.5}
+        - {x: -49.5, y: -18.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -27.5, y: -21.5}
+        - {x: -27.5, y: -24.5}
+        - {x: -24.5, y: -27.5}
+        - {x: -17.5, y: -29.5}
+        - {x: -12.5, y: -30.5}
+        - {x: 15.5, y: -30.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 25.5, y: -27.5}
+        - {x: 30.5, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0.55
+      bones: []
+      spriteID: ae61bb82692617320800000000000000
+      internalID: 2553930860763748074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Staff_0
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 255
+        width: 146
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -59.5}
+        - {x: -28, y: -51.5}
+        - {x: -21, y: -40.5}
+        - {x: -14, y: -30.5}
+        - {x: 10, y: 8.5}
+        - {x: 15, y: 16.5}
+        - {x: 16, y: 23.5}
+        - {x: 16, y: 47.5}
+        - {x: 15, y: 51.5}
+        - {x: 13, y: 58.5}
+        - {x: 6, y: 72.5}
+        - {x: 12, y: 80.5}
+        - {x: 19, y: 83.5}
+        - {x: 27, y: 84.5}
+        - {x: 31, y: 81.5}
+        - {x: 28, y: 69.5}
+        - {x: 27, y: 63.5}
+        - {x: 29, y: 61.5}
+        - {x: 37, y: 61.5}
+        - {x: 65, y: 65.5}
+        - {x: 73, y: 66.5}
+        - {x: 73, y: 72.5}
+        - {x: 69, y: 73.5}
+        - {x: 49, y: 77.5}
+        - {x: 49, y: 86.5}
+        - {x: 48, y: 92.5}
+        - {x: 45, y: 96.5}
+        - {x: 38, y: 99.5}
+        - {x: 4, y: 99.5}
+        - {x: -2, y: 97.5}
+        - {x: -6, y: 94.5}
+        - {x: -17, y: 71.5}
+        - {x: -18, y: 61.5}
+        - {x: -18, y: 56.5}
+        - {x: -9, y: 46.5}
+        - {x: -7, y: 35.5}
+        - {x: -8, y: 28.5}
+        - {x: -12, y: 13.5}
+        - {x: -17, y: 2.5}
+        - {x: -17, y: 0.5}
+        - {x: -39, y: -37.5}
+        - {x: -49, y: -53.5}
+        - {x: -61, y: -71.5}
+        - {x: -66, y: -78.5}
+        - {x: -73, y: -88.5}
+        - {x: -73, y: -95.5}
+        - {x: -67, y: -99.5}
+        - {x: -58, y: -99.5}
+        - {x: -52, y: -90.5}
+        - {x: -45, y: -78.5}
+        - {x: -40, y: -70.5}
+      physicsShape: []
+      tessellationDetail: 0.4
+      bones: []
+      spriteID: 8d669007167930700800000000000000
+      internalID: 505414027942913752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorIdle_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 137
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909c1004c1051ea0800000000000000
+      internalID: -5902809795272077159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorIdle_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 136
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d0e588642730b0800000000000000
+      internalID: -5749086367973845654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorIdle_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 137
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0245c0169e8ed1c0800000000000000
+      internalID: -4476984204382092788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IgorIdle_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 137
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eed843379c33c40800000000000000
+      internalID: 5490953867334905377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

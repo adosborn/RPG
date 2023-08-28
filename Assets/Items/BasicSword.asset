@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7903f10937e436994b290ccf5fc2a6, type: 3}
+  m_Name: BasicSword
+  m_EditorClassIdentifier: 
+  name: Basic Sword
+  icon: {fileID: -7199635935102789943, guid: ff001316c16344fe7b49d282eeede70e, type: 3}
+  isDefault: 0
+  isCoin: 0
+  isEquipment: 1
+  value: 0
+  rarity: 2
+  description: Basic Sword\n+3 Atk
+  sizeMultiplier: 1.4
+  equipSlot: 3
+  armorModifier: 0
+  damageModifier: 3
+  speedModifier: 0
+  staminaModifier: 0
+  jumpModifier: 0
+  sprites:
+  - {fileID: -7199635935102789943, guid: ff001316c16344fe7b49d282eeede70e, type: 3}

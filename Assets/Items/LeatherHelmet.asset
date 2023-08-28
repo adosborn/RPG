@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7903f10937e436994b290ccf5fc2a6, type: 3}
+  m_Name: LeatherHelmet
+  m_EditorClassIdentifier: 
+  name: Leather Helmet
+  icon: {fileID: -6936006486348755540, guid: 38d8874e12b5940a48cb3e6de65a0258, type: 3}
+  isDefault: 0
+  isCoin: 0
+  isEquipment: 1
+  value: 0
+  rarity: 2
+  description: LeatherHat \n+2 Def
+  sizeMultiplier: 0.3
+  equipSlot: 0
+  armorModifier: 2
+  damageModifier: 0
+  speedModifier: 0
+  staminaModifier: 0
+  jumpModifier: 0
+  sprites:
+  - {fileID: 5819187976563169009, guid: 67c6339bee5974f9a88d2b0548819dec, type: 3}
